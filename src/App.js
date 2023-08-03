@@ -7,7 +7,6 @@ function App() {
       <Navbar />
       <header className="App-header">
         hey
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           Edit <code>src/App.js</code> and save to reload. DAAAAAAYO
         </p>
