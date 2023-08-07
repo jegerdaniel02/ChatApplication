@@ -40,3 +40,13 @@
   background-color: #ddd;
   color: black;
 }
+
+/* footer styling */
+.app-footer {
+  color: darkcyan;
+  padding: 10px;
+  text-align:end;
+  justify-content:space-around;
+
+}
+
